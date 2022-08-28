@@ -1,6 +1,6 @@
-# My React Portfolio
+# Pixelizer
 
-This is my portfolio. I built it with React and Wordpress. You can check out my work by going to [Gus' Portfolio](https://github.com/facebook/create-react-app).
+Pixelizer is an app for sharing open source pixel art. [Gus' Portfolio](https://pixelizer.tech).
 
 ## Technolgies Used
 
